@@ -1,0 +1,407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LZ Computer Repair\n"
+"Last-Translator: \n"
+"Language-Team: Luzuk <support@luzuk.com>\n"
+"Language: English\n"
+"MIME-Version: 1.2.4\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:17 
+msgid 'Oops! That page can&rsquo;t be found.'
+msgstr ""
+
+#: 404.php:19
+msgid 'Return to home page'
+msgstr ""
+
+#: 404.php:23
+msgid 'It looks like nothing was found at this location. Maybe try a search?'
+msgstr ""
+
+#: comments.php:23
+msgid 'One thought on &ldquo;%s&rdquo;'
+msgstr ""
+
+#: comments.php:32
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:67
+msgid 'Comments are closed.'
+msgstr ""
+
+#: template-parts/footer/site-info.php:14
+msgid 'LZ Computer Repair Wordpress Theme Byy'
+msgstr ""
+
+#: header.php:89
+msgid 'Menu'
+msgstr ""
+
+#: searchform.php:15
+#: searchform.php:16
+msgid 'Search'
+msgstr ""
+
+#: searchform.php:15
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:16
+msgid 'submit button'
+msgstr ""
+
+#: archive.php:49
+#: archive.php:82
+#: archive.php:115
+#: archive.php:147
+#: archive.php:181
+#: archive.php:216
+#: archive.php:249
+#: index.php:50
+#: index.php:85
+#: index.php:119
+#: index.php:154
+#: index.php:190
+#: index.php:226
+#: index.php:256
+#: search.php:51
+#: search.php:87
+#: search.php:123
+#: search.php:158
+#: search.php:196
+#: search.php:233
+#: search.php:266
+msgid 'Previous page'
+msgstr ""
+
+#: archive.php:50
+#: archive.php:83
+#: archive.php:116
+#: archive.php:148
+#: archive.php:182
+#: archive.php:217
+#: archive.php:250
+#: index.php:51
+#: index.php:86
+#: index.php:120
+#: index.php:155
+#: index.php:191
+#: index.php:227
+#: index.php:257
+#: search.php:52
+#: search.php:88
+#: search.php:124
+#: search.php:159
+#: search.php:197
+#: search.php:234
+#: search.php:267
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:51
+#: archive.php:84
+#: archive.php:117
+#: archive.php:149
+#: archive.php:183
+#: archive.php:218
+#: archive.php:251
+#: index.php:52
+#: index.php:87
+#: index.php:121
+#: index.php:156
+#: index.php:192
+#: index.php:228
+#: index.php:258
+#: search.php:53
+#: search.php:89
+#: search.php:125
+#: search.php:160
+#: search.php:198
+#: search.php:235
+#: search.php:268
+msgid 'Page'
+msgstr ""
+
+#: index.php:19
+msgid 'Posts'
+msgstr ""
+
+#: search.php:18
+#: template-parts/post/content-none.php:14
+msgid 'Nothing Found'
+msgstr ""
+
+#: search.php:16
+msgid 'Search Results for: %s'
+msgstr ""
+
+#: search.php:41
+#: search.php:77
+#: search.php:113
+#: search.php:148
+#: search.php:186
+#: search.php:225
+#: search.php:261
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: single.php:34
+#: single.php:60
+#: single.php:85
+#: single.php:110
+#: single.php:137
+#: single.php:165
+#: single.php:192
+msgid 'Previous Post'
+msgstr ""
+
+#: single.php:34
+#: single.php:60
+#: single.php:85
+#: single.php:110
+#: single.php:137
+#: single.php:165
+#: single.php:192
+msgid 'Previous'
+msgstr ""
+
+#: single.php:35
+#: single.php:61
+#: single.php:86
+#: single.php:111
+#: single.php:138
+#: single.php:166
+#: single.php:193
+msgid 'Next Post'
+msgstr ""
+
+#: single.php:35
+#: single.php:61
+#: single.php:86
+#: single.php:111
+#: single.php:138
+#: single.php:166s
+#: single.php:193
+msgid 'Next'
+msgstr ""
+
+#: functions.php:34
+msgid 'Primary Menu'
+msgstr ""
+
+#: functions.php:73
+msgid 'Welcome to Luzuk!!'
+msgstr ""
+
+#: functions.php:74
+msgid 'Thank you for choosing LZ Computer Repair theme. It will be our pleasure to have you on our Welcome page to serve you better.'
+msgstr ""
+
+#: functions.php:75
+msgid 'GET STARTED'
+msgstr ""
+
+#: functions.php:81
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:83
+msgid 'Add widgets here to appear in your sidebar on blog posts and archive pages.'
+msgstr ""
+
+#: functions.php:93
+#: functions.php:103
+msgid 'Add widgets here to appear in your pages and posts'
+msgstr ""
+
+#: functions.php:91
+msgid 'Sidebar 2'
+msgstr ""
+
+#: functions.php:101
+msgid 'Sidebar 3'
+msgstr ""
+
+#: functions.php:111
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:121
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:131
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:113
+#: functions.php:123
+#: functions.php:133
+#: functions.php:143
+msgid 'Add widgets here to appear in your footer.'
+msgstr ""
+
+#: functions.php:197
+msgid 'Expand child menu'
+msgstr ""
+
+#: functions.php:198
+msgid 'Collapse child menu'
+msgstr ""
+
+#: functions.php:244
+msgid 'Luzuk'
+msgstr ""
+
+#: template-parts/page/content-page.php:22
+msgid 'Pages:'
+msgstr ""
+
+#: template-parts/post/content.php:26
+#: template-parts/post/grid-layout.php:26
+#: page-template/custom-home-page.php:40
+msgid 'READ MORE'
+msgstr ""
+
+#: template-parts/post/content-none.php:20
+msgid 'Ready to publish your first post? Get started here.'
+msgstr ""
+
+#: template-parts/post/content-none.php:24
+msgid 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.'
+msgstr ""
+
+#: template-parts/post/content.php:17
+#: template-parts/post/content-single.php:19
+#: template-parts/post/grid-layout.php:17
+msgid '0 Comments'
+msgstr ""
+
+#: inc/customizer.php:16
+msgid 'Theme Settings'
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:28
+#: inc/customizer.php:38
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid 'Do you want this section'
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid 'Top Bar'
+msgstr ""
+
+#: inc/customizer.php:58
+msgid 'Phone Text'
+msgstr ""
+
+#: inc/customizer.php:69
+msgid 'Phone Number'
+msgstr ""
+
+#: inc/customizer.php:80
+msgid 'Time Text'
+msgstr ""
+
+#: inc/customizer.php:91
+msgid 'Opening Hours'
+msgstr ""
+
+#: inc/customizer.php:102
+msgid 'Add Button Text'
+msgstr ""
+
+#: inc/customizer.php:113
+msgid 'Add Button Link'
+msgstr ""
+
+#: inc/customizer.php:121
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:132
+msgid 'Show / Hide slider'
+msgstr ""
+
+#: inc/customizer.php:133
+msgid 'Image Size ( 1600px x 667px )'
+msgstr ""
+
+#: inc/customizer.php:146
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:154
+msgid 'Our Services'
+msgstr ""
+
+#: inc/customizer.php:155
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:164
+msgid 'Section Title'
+msgstr ""
+
+#: inc/customizer.php:189
+msgid 'Select Category to display Post'
+msgstr ""
+
+#: inc/customizer.php:195
+#: inc/customizer.php:205
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:237
+msgid 'Front Page Section %d Content'
+msgstr ""
+
+#: inc/customizer.php:238
+msgid 'Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed.'
+msgstr ""
+
+#: inc/customizer.php:346
+msgid 'Computer Pro Theme'
+msgstr ""
+
+#: inc/customizer.php:347
+msgid 'Go Pro'
+msgstr ""

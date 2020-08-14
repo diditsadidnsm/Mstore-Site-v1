@@ -1,0 +1,39 @@
+# BEGIN WP Hide & Security Enhancer
+<IfModule mod_rewrite.c> 
+RewriteEngine On 
+RewriteBase / 
+#WriteCheckString:1577178884_90904
+RewriteRule .* - [E=HTTP_MOD_REWRITE:On]
+</IfModule> 
+
+# END WP Hide & Security Enhancer
+# BEGIN LSCACHE
+# END LSCACHE
+# BEGIN NON_LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+### marker MINIFY start ###
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} ^(.*)/min/(\w+)\.(css|js)$
+RewriteCond %1/wp-content/cache/$2/$1.$2 -f
+RewriteRule min/(\w+)\.(css|js) wp-content/cache/$2/$1.$2 [L]
+</IfModule>
+### marker MINIFY end ###
+
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END NON_LSCACHE
+
+# BEGIN WordPress
+# Arahan (baris) antara `BEGIN WordPress` dan `END WordPress`
+# dihasilkan secara dinamis, dan hanya dapat dimodifikasi melalui filter WordPress.
+# Setiap perubahan pada arahan di antara penanda berikut akan ditimpa.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

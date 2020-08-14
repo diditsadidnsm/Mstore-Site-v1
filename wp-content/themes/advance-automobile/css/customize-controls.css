@@ -1,0 +1,22 @@
+/* ---------Customizer--------- */
+a.button.button-secondary.alignright {
+  background: #006799;
+  color: #fff;
+  border: solid 1px #0073aa;
+  font-size: 15px;
+  padding: 0 20px;
+}
+a.button.button-secondary.alignright:hover {
+	background: #0073aa;
+}
+
+/* ---------Excerpt & Logo --------- */
+input#_customize-input-logo_size,input#_customize-input-advance_automobile_excerpt_number{
+    width: 100%;
+}
+li#customize-control-logo_size {
+    background: #fff;
+    padding: 4px;
+}
+
+

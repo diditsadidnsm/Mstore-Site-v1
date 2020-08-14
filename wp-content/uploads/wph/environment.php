@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"singlepage","mapped_name":""},"allowed_paths":["\/home\/multijakarta\/public_html\/mstore.site\/wp-content\/themes"],"cache_path":"\/home\/multijakarta\/public_html\/mstore.site\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/"}'; ?>

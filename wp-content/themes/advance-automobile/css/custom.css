@@ -1,0 +1,51 @@
+/*
+Advance Automobile Custom Style CSS
+*/
+
+/******************************
+* BuddyPress
+*******************************/
+
+#buddypress div.activity-meta a{
+	color: #ffffff;
+	
+}
+#buddypress table.forum tr td.label, #buddypress table.messages-notices tr td.label, #buddypress table.notifications tr td.label, #buddypress table.notifications-settings tr td.label, #buddypress table.profile-fields tr td.label, #buddypress table.wp-profile-fields tr td.label{
+	width: 100%;
+	color:#333;
+  background: transparent;
+  padding: 10px;
+  font-size: small;
+  line-height: normal;
+}
+#buddypress div.profile h4{
+	padding:10px;
+}
+div#item-nav > div.item-list-tabs ul li{border-right: 1px solid #ddd;}
+div#item-nav > div.item-list-tabs#object-nav{
+	    border: 1px solid #ddd;
+}
+
+div#item-body > div.item-list-tabs#subnav ul li.last{
+	    margin-top: 0;
+    display: flex;
+}
+
+#buddypress div.item-list-tabs#subnav ul li.last > label{
+    padding: 7px 10px 2px 5px;
+}
+div#item-body > div.item-list-tabs#subnav ul li{
+	    border-right: 1px solid #ddd;
+}
+div#item-body > div.item-list-tabs#subnav{
+	    border: 1px solid #ddd;
+}
+
+#buddypress div.item-list-tabs ul li.last select{
+border-top: 0;
+height: 2.2rem !important;
+font-size: 14px;
+border-right: 0;
+border-bottom: 0;
+padding-right: 20px;
+}

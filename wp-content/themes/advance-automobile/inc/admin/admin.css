@@ -1,0 +1,113 @@
+#wpwrap{
+	background: #fff;
+}
+.header {
+    background: #54bfed;
+    text-align: center;
+    padding: 20px;
+}
+.header h2 {
+    font-size: 30px;
+    color: #fff;
+}
+.header p {
+    color: #fff;
+    font-size: 17px;
+}
+.main-button a {
+    background-color: #fff;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 35px;
+    color: #54bfed;
+    text-decoration: none;
+    margin-right: 5px;
+    font-weight: bold;
+}
+.main-button {
+    margin: 35px 0 20px;
+}
+.button-bg .tablink {
+    background: #3b3b3b;
+    border: none;
+    color: #fff;    
+    font-weight: 600;
+    padding: 15px;
+    margin: 16px 5px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    box-shadow: 5px 5px #bbb;
+}
+.button-bg{
+    text-align: center;
+}
+.image-docs {
+    width: 50%;
+    float: left;
+}
+.doc-image {
+    width: 45%;
+    float: right;
+    padding: 15px;
+}
+.documentation img,
+.col-4 img {
+    width: 100%;
+    box-shadow: 0 0 13px 7px #ccc;
+}
+.doc-image1{
+    width: 45%;
+    float: left;
+}
+.image-docs1 {
+    width: 50%;
+    float: right;
+}
+.clearfixed {
+    float: left;
+    width: 100%;
+}
+.documentation ul {
+    margin: 6em 2em;
+}
+.tabcontent h3 {
+    text-align: center;
+    font-size: 22px;
+}
+.sec-button {
+    text-align: center;
+    margin: 30px;
+}
+.sec-button a {
+    background: #54bfed;
+    color: #000;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 14px;
+}
+.col-4 {
+    width: 47%;
+    float: left;
+    padding: 15px;
+}
+.col-4 h4 {
+    margin: 0;
+    font-size: 16px;
+    color: #000;
+}
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+    display: none;
+    height: 100%;
+}
+.tab1{
+    display: block;
+}
+/*
+.get-started {
+    box-shadow: 0 0 10px 4px #eee;
+    border: solid 5px #333;
+}*/

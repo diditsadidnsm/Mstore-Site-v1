@@ -1,0 +1,47 @@
+===== Change Log =====
+
+ Version 1.2.0
+ * Added HTML5 video background
+ * Added homepage full screen google map
+ * Fixed translation issues
+ * Fixed Homepage Side Nav Menu Typography option issue
+
+ Version 1.1.9
+ * Responsive optimization
+ 
+ Version 1.1.8
+ * Fixed header image issue
+ 
+ Version 1.1.7
+ * Fixed customize Display Header Text issue
+ * Fixed duplicate title tag issue
+ * Fixed home page menu hover color issue
+  
+ Version 1.1.6
+ * Added Section Height Mode option
+ 
+ Version 1.1.5
+ * Added link color options
+ * Added typography options
+   
+ Version 1.1.3
+ * Added Side Nav Circle Color selector
+ * Added homepage scrolling delay option
+ * Optimized section content container width
+  
+ Version 1.1.2
+ * Added page metabox options
+ 
+ Version 1.1.1
+ * Optimized menu style
+ * Modified page template file
+
+ Version 1.1.0
+ * Fix for WordPress stripping iFrames and Script Tags from Editor
+ * Added theme support  "title-tag"
+ * Fixed favicon icon issue
+ * Added custom css option
+ * Added homepage menu color options
+ 
+ Version 1.0.9
+ * Fixed Home Page background image issue.
